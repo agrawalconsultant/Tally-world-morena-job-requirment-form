@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fileNameText = document.getElementById('fileNameText');
 
     // Apps Script Web App URL
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbwwPwxVrV_eo2XBzJ5wbFook92oytBwz3n94YUGzJTuQDwM0JKF4Qq63rTGtds7QeVU/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzq_fTyEoKVVkcrkMiz-KRKCO-kc2oiDiGahqtvTBvEHdIKIjxX5ARHxLUoGmqH1v25/exec';
 
     // ==========================================
     // SMOOTH SCROLL & LIVE RED OUTLINE ENGINE
